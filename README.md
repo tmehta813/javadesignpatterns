@@ -12,7 +12,7 @@
  Composite Pattern <br />
  Decorator Pattern <br />
  Facade Pattern <br />
- proxy Pattern <br />
- visitor Pattern <br />
+ Proxy Pattern <br />
+ Visitor Pattern <br />
  
  
