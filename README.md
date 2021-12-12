@@ -8,7 +8,7 @@
  Bridge Pattern <br />
  Iterator Pattern <br />
  Mediator Pattern <br />
- Momento Pattern <br />
+ Memento Pattern <br />
  Composite Pattern <br />
  Decorator Pattern <br />
  Facade Pattern <br />
